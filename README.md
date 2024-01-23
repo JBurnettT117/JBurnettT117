@@ -4,7 +4,7 @@ He/Him
 
 I'm currently attending Bloom Institute of Technology and am looking forward to starting my journey into the proffesional world of coding
 
-I'm currently learning Javascript, Typescript, Python, HTML, and CSS
+I am proficient in Javascript, Typescript, Python, HTML, CSS, Jest, and Figma.
 
 Feel free to reach out to me at joshuaburnett429@gmail.com
 
