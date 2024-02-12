@@ -2,7 +2,7 @@
 
 He/Him
 
-I'm currently attending Bloom Institute of Technology and am looking forward to starting my journey into the proffesional world of coding
+I have recently graduated from Bloom Institute of Technology and am looking forward to starting my journey into the proffesional world of coding!
 
 I am proficient in Javascript, Typescript, Python, HTML, CSS, Jest, and Figma.
 
